@@ -1,0 +1,8 @@
+{
+  "name": "Zion AI",
+  "description": "Africa's AI Operating System for learning, productivity coaching, business management, and payment enablement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
